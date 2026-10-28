@@ -43,3 +43,7 @@ A demonstration video will be added to show the inspection record, summary-gener
 
 Student project developed using Salesforce.
 
+# project screenshots
+
+![Inspection Summary Screenshot](./Screenshot%202026-10-28%20083639.png)
+
